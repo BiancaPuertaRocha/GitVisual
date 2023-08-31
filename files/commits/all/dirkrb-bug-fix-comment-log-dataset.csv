@@ -1,0 +1,406 @@
+Project;Manager;Category;Key;Author;CreationDate;Content
+DIRKRB;Apache Directory Committee;security;DIRKRB-1;seelmann;2009-08-06T10:53:00.327+0000;rev:8 http:4 apache:4 view:4 fixed:2 server:1 bind:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-28;obi;2010-08-13T15:15:18.169+0000;patch:1 fixing:1 issue:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-28;akiran;2010-08-15T13:21:31.749+0000;changed:1 assignee:1 updated:1 version:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-28;akiran;2010-08-15T15:50:03.162+0000;rev:2 patch:1 applied:1 http:1 apache:1 view:1 thank:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-30;elecharny;2010-12-07T15:07:00.119+0000;fixed:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-80;akiran;2010-12-04T11:37:34.400+0000;rev:2 updated:1 use:1 renamed:1 fixed:1 branch:1 http:1 apache:1 view:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-81;elecharny;2012-01-24T11:05:20.845+0000;rev:2 fixed:1 http:1 apache:1 view:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-81;pamarcelot;2012-01-27T14:50:58.849+0000;opened:1 change:1 fix:1 version:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-81;pamarcelot;2012-01-27T14:52:04.787+0000;fixed:1 version:1 changed:1 closing:1 issue:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-84;elecharny;2012-01-27T00:44:07.260+0000;rev:2 fixed:1 http:1 apache:1 view:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-85;elecharny;2013-02-26T11:00:46.319+0000;attribute:1 available:1 http:1 apache:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-87;akiran;2013-02-12T14:31:46.348+0000;fixed:1 http:1 apache:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-91;smoyer1;2013-04-12T15:06:35.462+0000;java:30 apache:26 mina:18 core:15 directory:8 polling:5 run:4 access:3 grammar:2 bad:2 transition:2 state:2 tag:2 server:2 protocol:2 filter:2 process:2 concurrent:2 worker:2 thread:2 line:1 throwing:1 following:1 exception:1 error:1 shared:1 exceptions:1 integrity:1 check:1 decrypted:1 field:1 failed:1 libraries:1 flush:1 read:1 processor:1 caused:1 decode:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-91;elecharny;2013-04-12T17:48:05.328+0000;encrypted:1 get:1 exception:1 try:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-91;smoyer1;2013-04-17T17:43:45.977+0000;rep:3 mit:2 compatibility:2 tag:2 number:2 found:1 thread:1 describes:1 containing:1 http:1 help:1 invalid:1 linux:1 running:1 html:1 reference:1 section:1 pertinent:1 paragraph:1 quote:1 note:1 implementations:1 unconditionally:1 send:1 encrypted:1 application:1 field:1 regardless:1 reply:1 interest:1 may:1 relax:1 check:1 decrypted:1 part:1 apparently:1 widely:1 known:1 least:1 server:1 behavior:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-91;smoyer1;2013-04-17T17:50:03.409+0000;please:1 apply:1 patch:1 java:1 resolve:1 issue:1 adds:1 mit:1 compatibility:1 class:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-91;akiran;2013-04-17T18:20:46.319+0000;applied:1 patch:1 slight:1 modification:1 formatting:1 change:1 rev:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-91;elecharny;2013-04-18T07:21:45.378+0000;nonce:4 case:2 throw:2 new:2 received:2 match:2 sent:2 request:2 break:2 patch:1 works:1 wonder:1 slightly:1 different:1 better:1 null:1 switch:1 reading:1 fist:1 byte:1 decoded:1 part:1 ca:1 tell:1 spare:1 exception:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-92;akiran;2013-04-18T05:43:15.401+0000;applied:1 patch:1 rev:1 thank:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-93;elecharny;2013-04-20T09:51:43.747+0000;said:1 may:1 support:1 http:1 tools:1 html:1 order:1 client:1 working:1 existing:1 servers:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-93;akiran;2013-04-23T12:58:11.990+0000;password:4 issue:2 version:2 change:2 protocol:2 new:2 user:2 data:2 two:1 parts:1 sends:1 sets:1 structure:1 set:1 fixed:1 first:1 rev:1 second:1 progress:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-93;akiran;2013-04-24T10:43:06.100+0000;earlier:1 commit:1 rev:1 fixes:1 2nd:1 issue:1 well:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-96;akiran;2014-03-09T08:18:39.218+0000;fixed:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-97;akiran;2014-01-08T09:47:28.083+0000;thanks:1 report:1 patch:1 looks:1 like:1 active:1 directory:1 setting:1 reply:1 needed:1 fixed:1 http:1 apache:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-101;akiran;2014-02-28T10:45:48.824+0000;fixed:1 http:1 apache:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-150;drankye;2015-01-23T08:59:23.127+0000;hi:1 lin:1 looks:1 like:1 missed:1 places:1 please:1 check:1 time:1 thanks:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-150;HazelC;2015-01-23T09:10:10.290+0000;thanks:2 review:1 patch:1 updated:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-150;drankye;2015-01-23T09:30:07.526+0000;reviewed:1 committed:1 commit:1 author:1 date:1 sat:1 jan:1 fix:1 issues:1 tests:1 contributed:1 lin:1 chen:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-157;drankye;2015-02-01T01:27:42.595+0000;mean:1 module:1 look:1 thanks:1 reporting:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-157;drankye;2015-02-01T02:21:36.279+0000;commit:1 author:1 date:1 sun:1 feb:1 value:1 like:1 decoded:1 true:1 der:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-184;jiajia;2015-03-20T08:54:53.667+0000;upload:1 patch:1 hi:1 please:1 look:1 thanks:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-184;HazelC;2015-03-20T12:01:44.894+0000;reviewed:1 committed:1 thanks:1 contribution:1 commit:1 author:1 hazel:1 date:1 fri:1 mar:1 add:1 configuration:1 directory:1 test:1 contributed:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-202;jiajia;2015-03-30T05:53:21.003+0000;upload:1 patch:1 hi:1 review:1 thanks:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-202;HazelC;2015-03-30T08:38:25.261+0000;reviewed:1 committed:1 thanks:1 contribution:1 commit:1 author:1 lin:1 date:1 mon:1 mar:1 change:1 keys:1 non:1 static:1 contributed:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-203;YaningXu;2015-03-30T09:31:04.116+0000;fix:1 bug:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-203;HazelC;2015-03-30T10:00:49.296+0000;test:3 maybe:2 better:2 directory:2 deleted:2 exists:2 hi:1 work:1 looks:1 great:1 minor:1 questions:1 get:1 like:1 way:1 files:1 generated:1 target:1 clean:1 codes:1 contributed:1 file:1 testing:1 verify:1 first:1 delete:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-203;YaningXu;2015-03-31T01:40:03.484+0000;test:2 directory:2 like:1 files:1 generated:1 target:1 deleted:1 clean:1 verify:1 exits:1 deleting:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-203;HazelC;2015-03-31T05:28:49.534+0000;hi:1 changes:1 look:1 great:1 please:1 merge:1 two:1 patches:1 one:1 patch:1 thanks:1 lot:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-203;HazelC;2015-03-31T06:02:37.084+0000;reviewed:1 committed:1 thanks:1 contribution:1 commit:1 author:1 lin:1 date:1 mar:1 failed:1 windows:1 contributed:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-203;YaningXu;2015-03-31T06:15:40.964+0000;advice:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-204;drankye;2015-03-31T03:40:54.720+0000;repeated:1 windows:1 linux:1 failed:1 repeat:1 get:1 fixed:1 thanks:1 report:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-204;drankye;2015-03-31T13:23:31.962+0000;commit:1 author:1 date:1 mar:1 kerb:1 test:1 fail:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-209;jiajia;2015-04-07T07:46:42.254+0000;upload:1 patch:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-209;drankye;2015-04-08T06:41:59.048+0000;hi:1 patch:1 fixed:1 issue:1 changed:1 original:1 logic:1 unexpectedly:1 better:1 way:1 double:1 check:1 thanks:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-209;jiajia;2015-04-08T06:50:35.543+0000;patch:2 upload:1 set:1 default:1 constructor:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-209;drankye;2015-04-08T07:39:37.435+0000;revision:1 sounds:1 like:1 good:1 fix:1 object:1 later:1 created:1 necessary:1 initialization:1 thanks:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-209;drankye;2015-04-08T07:42:07.932+0000;commit:1 author:1 date:1 wed:1 apr:1 fix:1 client:1 read:1 default:1 configuration:1 directory:1 contributed:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-210;jiajia;2015-04-07T13:50:51.006+0000;upload:1 patch:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-210;drankye;2015-04-07T14:07:08.408+0000;patch:1 fixed:1 coding:1 errors:1 looks:1 good:1 review:1 passed:1 thanks:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-210;drankye;2015-04-07T14:08:59.607+0000;commit:1 author:1 date:1 wed:1 apr:1 fix:1 setting:1 common:1 options:1 contributed:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-211;jiajia;2015-04-08T03:56:41.853+0000;cc:2 principal:2 upload:1 patch:1 result:1 c:1 ticket:1 cache:1 file:1 default:1 valid:1 starting:1 expires:1 service:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-211;drankye;2015-04-08T06:29:39.885+0000;thanks:1 lot:1 reporting:1 fix:1 reviewed:1 committed:1 commit:1 author:1 date:1 wed:1 apr:1 using:1 mit:1 tool:1 list:1 tickets:1 credentials:1 cache:1 generated:1 contributed:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-220;jiajia;2015-04-23T08:51:46.519+0000;work:1 looks:1 good:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-220;drankye;2015-04-23T09:07:20.735+0000;reviewed:1 committed:1 thanks:1 good:1 work:1 review:1 commit:1 author:1 date:1 fri:1 apr:1 fix:1 function:1 contributed:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-221;jiajia;2015-04-23T08:53:19.140+0000;thanks:1 work:1 patch:1 looks:1 good:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-221;drankye;2015-04-23T09:10:50.870+0000;reviewed:1 committed:1 thanks:1 good:1 work:1 review:1 commit:1 author:1 date:1 fri:1 apr:1 fix:1 function:1 contributed:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-243;jiajia;2015-04-29T02:12:27.176+0000;upload:1 patch:1 please:1 help:1 review:1 thanks:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-243;drankye;2015-05-04T02:07:45.479+0000;patch:1 looks:1 good:1 thanks:1 commit:1 author:1 date:1 mon:1 may:1 fix:1 bug:1 converting:1 byte:1 string:1 contributed:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-245;jiajia;2015-04-29T08:18:35.554+0000;thanks:1 work:1 patch:1 fine:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-245;drankye;2015-04-29T09:17:12.780+0000;review:2 passed:1 committed:1 thanks:1 contribution:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-246;drankye;2015-05-04T23:06:19.399+0000;issue:3 thought:2 file:2 thanks:1 reporting:1 read:1 write:1 temp:1 like:1 clear:1 cause:1 get:1 fixed:1 first:1 check:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-246;coheigea;2015-05-05T09:56:28.749+0000;using:3 hi:1 test:1 passes:1 also:1 works:1 fine:1 eclipse:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-246;jiajia;2015-05-05T13:41:01.465+0000;hi:1 test:1 based:1 try:1 use:1 tests:1 pass:1 console:1 know:1 linux:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-246;jiajia;2015-05-05T13:55:40.933+0000;module:2 test:2 hi:1 project:1 find:1 resources:1 upload:1 patch:1 create:1 save:1 delete:1 folder:1 finish:1 care:1 value:1 ok:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-246;drankye;2015-05-06T12:53:47.670+0000;like:2 better:2 reliable:2 way:2 hi:1 looks:1 separate:1 two:1 issues:1 prepare:1 uses:1 makes:1 sense:1 relying:1 fixed:1 sooner:1 issue:1 related:1 may:1 need:1 time:1 investigate:1 proceed:1 thanks:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-246;coheigea;2015-05-06T13:16:15.879+0000;directory:3 two:2 test:2 fixed:1 issue:1 patch:1 looks:1 mostly:1 fine:1 immediate:1 issues:1 jump:1 please:1 try:1 create:1 target:1 b:1 move:1 creation:1 method:1 remove:1 need:1 creating:1 also:1 make:1 changes:1 tests:1 added:1 module:1 well:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-246;drankye;2015-05-06T13:32:11.049+0000;directory:2 also:2 tests:2 thanks:1 update:1 fixed:1 issue:1 cool:1 please:1 try:1 create:1 target:1 agree:1 good:1 point:1 move:1 creation:1 method:1 yes:1 way:1 make:1 changes:1 two:1 maybe:1 check:1 relying:1 test:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-246;jiajia;2015-05-07T01:10:31.827+0000;thanks:1 refine:1 patch:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-246;zhouwei;2015-05-08T02:56:14.831+0000;codes:1 refined:1 thanks:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-246;zhouwei;2015-05-08T03:24:59.662+0000;common:2 patch:1 summary:1 setup:1 codes:1 refined:1 preparing:1 work:1 moved:1 class:1 kerb:1 test:1 pom:1 changed:1 import:1 io:1 utilities:1 thanks:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-254;drankye;2015-05-12T02:42:41.070+0000;thanks:1 issue:1 patch:1 looks:1 good:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-254;jiajia;2015-05-14T07:21:46.291+0000;commit:1 author:1 li:1 date:1 may:1 server:1 fail:1 start:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-255;drankye;2015-05-12T09:23:55.777+0000;thanks:1 wei:1 performing:1 test:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-255;zhouwei;2015-06-09T05:44:09.036+0000;server:2 patch:1 fixes:1 two:1 issues:1 flow:1 getting:1 send:1 wrong:1 data:1 mit:1 index:1 replied:1 acceptable:1 thanks:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-255;jiajia;2015-06-09T06:22:07.251+0000;thanks:1 wei:1 great:1 work:1 commit:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-255;jiajia;2015-06-09T06:33:05.886+0000;commit:1 author:1 li:1 date:1 failed:1 get:1 mit:1 server:1 contributed:1 wei:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-257;YaningXu;2015-05-13T08:07:06.850+0000;implementation:1 problem:1 fixed:1 help:1 review:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-257;drankye;2015-05-13T08:20:57.213+0000;hi:1 patch:1 trivial:1 changed:1 various:1 logic:1 encryption:1 types:1 issue:1 fixing:1 test:1 failures:1 error:1 messages:1 verify:1 fixes:1 thanks:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-257;YaningXu;2015-05-14T06:47:08.099+0000;hi:1 advice:1 test:1 case:1 shown:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-257;YaningXu;2015-05-14T06:48:35.466+0000;duplicated:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-257;YaningXu;2015-05-14T07:24:40.792+0000;bug:1 wrong:1 needs:1 fixed:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-257;YaningXu;2015-05-14T07:46:42.510+0000;patch:1 fixed:1 bug:1 accept:1 input:1 multiple:1 bytes:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-257;drankye;2015-05-14T08:19:27.264+0000;thanks:1 challenge:1 work:1 fixing:1 sorting:1 looks:1 great:1 review:1 passed:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-257;drankye;2015-05-14T08:20:13.907+0000;commit:1 author:1 date:1 fri:1 may:1 fix:1 encryption:1 types:1 contributed:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-259;jiajia;2015-05-26T02:14:43.264+0000;upload:1 patch:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-259;drankye;2015-05-26T03:09:00.870+0000;thanks:1 catch:1 looks:1 good:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-259;jiajia;2015-05-26T03:11:55.278+0000;thanks:1 review:1 commit:1 author:1 li:1 date:1 may:1 fix:1 wrong:1 fileds:1 class:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-261;jiajia;2016-01-05T08:14:06.330+0000;commit:1 author:1 li:1 date:1 jan:1 fix:1 code:1 analysis:1 issue:1 system:1 efficient:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-262;zhouwei;2015-06-03T08:29:56.236+0000;bugs:1 fixed:1 accordingly:1 except:1 corner:1 case:1 static:1 initialization:1 block:1 difficult:1 fix:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-262;drankye;2015-06-03T08:37:07.669+0000;thanks:1 wei:1 patch:1 agree:1 handle:1 hard:1 corner:1 case:1 separately:1 open:1 issue:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-262;HazelC;2015-06-05T11:22:27.633+0000;patch:2 called:2 thanks:1 wei:1 looks:1 good:1 minor:1 problem:1 codes:1 like:1 make:1 method:1 deleting:1 files:1 making:1 directories:1 twice:1 result:1 delete:1 secondly:1 always:1 return:1 false:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-262;HazelC;2015-06-12T14:09:04.121+0000;sorry:2 patch:2 problem:2 seriously:1 review:1 great:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-262;jiajia;2015-06-15T03:25:06.116+0000;wei:2 thanks:1 lin:1 patch:1 committed:1 support:1 branch:1 commit:1 author:1 li:1 date:1 mon:1 fix:1 issues:1 yet:1 commons:1 module:1 contributed:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-266;jiajia;2016-01-05T08:00:40.530+0000;commit:1 author:1 li:1 date:1 jan:1 fix:1 code:1 analysis:1 issue:1 user:1 supplied:1 array:1 stored:1 directly:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-274;jiajia;2016-01-05T07:46:48.074+0000;commit:1 author:1 li:1 date:1 jan:1 fix:1 code:1 analysis:1 issue:1 replaced:1 local:1 variable:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-275;YaningXu;2015-05-28T01:05:21.665+0000;must:3 variable:2 private:2 methods:2 fix:1 name:1 match:1 pattern:1 z:1 help:1 review:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-276;YaningXu;2015-05-28T01:27:01.537+0000;fix:1 private:1 kerb:1 test:1 module:1 help:1 review:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-276;jiajia;2015-05-28T01:37:45.956+0000;thanks:1 work:1 commit:1 author:1 li:1 date:1 may:1 fix:1 private:1 kerb:1 test:1 module:1 contributed:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-286;zhouwei;2015-06-09T07:14:00.281+0000;bug:1 fixed:1 replacement:1 thanks:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-286;jiajia;2015-06-09T07:33:09.172+0000;thanks:1 contribution:1 commit:1 author:1 li:1 date:1 fail:1 write:1 ticket:1 principal:1 name:1 contains:1 contributed:1 wei:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-296;jiajia;2015-06-12T08:29:53.604+0000;commit:1 author:1 li:1 date:1 fri:1 fail:1 get:1 principal:1 identity:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-306;jiajia;2015-06-24T03:06:40.235+0000;wei:2 thanks:1 pointing:1 issue:1 providing:1 patch:1 commit:1 author:1 li:1 date:1 wed:1 set:1 using:1 contributed:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-326;YaningXu;2015-07-09T01:56:31.932+0000;patch:1 problems:1 solved:1 totally:1 help:1 review:1 thank:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-326;YaningXu;2015-07-09T02:33:41.361+0000;patch:2 errors:1 updated:1 help:1 review:1 thank:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-326;jiajia;2015-07-09T02:53:32.954+0000;thanks:1 great:1 work:1 commit:1 author:1 li:1 date:1 fix:1 problems:1 contributed:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-326;seelmann;2015-07-09T05:38:45.456+0000;build:2 thank:1 much:1 fixes:1 also:1 activated:1 check:1 normal:1 fails:1 error:1 checks:1 skipped:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-326;YaningXu;2015-07-09T06:05:45.778+0000;thanks:1 make:1 every:1 time:1 modify:1 code:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-344;jiajia;2015-07-07T06:53:45.474+0000;take:1 issue:1 thanks:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-344;jiajia;2015-07-08T03:49:53.901+0000;client:3 authentication:2 type:2 typically:1 starts:1 conversation:1 sending:1 initial:1 request:1 requires:1 returns:1 error:1 message:1 list:1 included:1 commit:1 author:1 li:1 date:1 wed:1 negotiation:1 issue:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-344;jiajia;2015-07-23T05:22:53.351+0000;client:3 add:2 feature:1 test:1 commit:1 author:1 li:1 date:1 encryption:1 type:1 negotiation:1 issue:1 retry:1 fail:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-348;drankye;2015-07-10T03:43:23.580+0000;summary:1 found:1 issues:1 checking:1 know:1 better:1 proceed:1 thanks:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-348;YaningXu;2015-07-10T05:09:35.198+0000;module:2 many:1 problems:1 maven:1 reports:1 found:1 reliance:1 default:1 encoding:1 malicious:1 code:1 vulnerability:1 maybe:1 handle:1 thank:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-348;drankye;2015-07-10T05:14:36.454+0000;module:2 maybe:1 handle:1 yeah:1 sound:1 good:1 thanks:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-354;YaningXu;2015-07-13T05:20:29.945+0000;option:2 patch:1 disable:1 return:1 null:1 passing:1 parameter:1 becomes:1 boolean:1 modify:1 codes:1 invoke:1 help:1 review:1 thank:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-354;jiajia;2015-07-13T07:06:59.286+0000;think:1 issue:1 patch:1 example:1 line:1 never:1 run:1 please:1 check:1 get:1 value:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-354;YaningXu;2015-07-13T07:16:14.579+0000;thanks:1 review:1 try:1 solve:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-354;YaningXu;2015-07-14T01:03:20.345+0000;updated:1 patch:1 help:1 review:1 thank:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-354;jiajia;2015-07-14T01:29:12.372+0000;java:2 thanks:1 update:1 good:1 please:1 change:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-354;YaningXu;2015-07-14T01:33:48.217+0000;thanks:1 review:1 handle:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-354;YaningXu;2015-07-15T02:06:21.716+0000;updated:1 patch:1 help:1 review:1 thank:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-354;jiajia;2015-07-15T02:22:38.408+0000;fine:1 committed:1 thanks:1 work:1 commit:1 author:1 li:1 date:1 wed:1 fix:1 return:1 null:1 problem:1 contributed:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-367;jiajia;2016-05-26T07:18:10.304+0000;close:1 functions:1 removed:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-369;YaningXu;2015-07-15T07:46:48.413+0000;uploaded:1 patch:1 help:1 review:1 thank:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-369;HazelC;2015-07-15T13:39:11.940+0000;reviewed:1 committed:1 thanks:1 contribution:1 commit:1 author:1 lin:1 date:1 wed:1 fix:1 problems:1 provider:1 module:1 contributed:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-370;jiajia;2015-07-16T06:21:13.702+0000;commit:1 author:1 li:1 date:1 fix:1 scripts:1 linux:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-381;jiajia;2015-07-17T06:10:59.738+0000;commit:1 author:1 li:1 date:1 fri:1 allow:1 tcp:1 set:1 true:1 corresponding:1 port:1 null:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-387;jiajia;2015-07-29T06:47:15.190+0000;commit:1 author:1 li:1 date:1 wed:1 tool:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-389;YaningXu;2015-08-06T01:45:09.095+0000;implemented:2 patch:1 fixed:1 reported:1 problem:1 besides:1 commands:1 add:1 descriptions:1 point:1 available:1 next:1 version:1 help:1 review:1 thank:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-389;jiajia;2015-08-06T02:36:44.739+0000;thanks:1 work:1 commit:1 author:1 li:1 date:1 aug:1 fix:1 break:1 input:1 command:1 illegal:1 contributed:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-391;YaningXu;2015-08-06T07:35:58.976+0000;patch:1 reported:1 problem:1 resolved:1 help:1 review:1 thank:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-391;jiajia;2015-08-06T07:54:12.819+0000;thanks:1 contribution:1 commit:1 author:1 li:1 date:1 aug:1 fix:1 throw:1 problem:1 authentication:1 fails:1 contributed:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-392;jiajia;2015-08-06T07:48:30.533+0000;commit:1 author:1 li:1 date:1 aug:1 tool:1 invalid:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-394;zhouwei;2015-08-07T05:50:53.825+0000;implementation:1 changed:1 thanks:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-394;jiajia;2015-08-07T06:26:49.131+0000;wei:2 thanks:1 contribution:1 commit:1 author:1 li:1 date:1 fri:1 aug:1 written:1 twice:1 file:1 contributed:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-395;jiajia;2015-08-07T03:45:40.644+0000;commit:1 author:1 li:1 date:1 fri:1 aug:1 create:1 authentication:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-396;jiajia;2015-08-07T13:05:24.580+0000;commit:1 author:1 li:1 date:1 fri:1 aug:1 stop:1 server:1 running:1 tool:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-397;YaningXu;2015-08-11T01:14:05.269+0000;patch:1 reported:1 problem:1 solved:1 help:1 review:1 thank:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-397;jiajia;2015-08-12T01:35:17.254+0000;thanks:1 report:1 fix:1 issue:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-397;jiajia;2015-08-12T01:38:21.378+0000;commit:1 author:1 li:1 date:1 wed:1 aug:1 fix:1 issue:1 contributed:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-398;jiajia;2015-08-12T02:33:45.695+0000;commit:2 author:2 li:2 date:2 wed:2 aug:2 ignore:1 method:1 length:1 lines:1 fix:1 check:1 style:1 issues:1 yet:1 commons:1 module:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-399;YaningXu;2015-08-12T03:22:54.915+0000;patch:1 reported:1 problem:1 solved:1 besides:1 old:1 java:1 test:1 help:1 review:1 thank:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-399;YaningXu;2015-08-12T05:32:57.162+0000;thanks:1 remind:1 required:1 java:1 removed:1 patch:1 help:1 review:1 thank:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-399;jiajia;2015-08-12T06:45:49.524+0000;commit:1 author:1 li:1 date:1 wed:1 aug:1 enable:1 stop:1 delete:1 created:1 method:1 contributed:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-400;jiajia;2015-08-14T06:11:59.824+0000;thanks:2 providing:1 patch:1 fix:1 looks:1 good:1 commit:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-400;jiajia;2015-08-14T06:36:51.706+0000;commit:1 author:1 li:1 date:1 fri:1 aug:1 maven:1 pom:1 project:1 version:1 issues:1 contributed:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-401;jiajia;2015-08-14T06:48:01.148+0000;thanks:1 contribution:1 commit:1 author:1 li:1 date:1 fri:1 aug:1 classes:1 field:1 missing:1 contributed:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-402;jiajia;2015-08-14T07:10:22.000+0000;thanks:1 contribution:1 commit:1 author:1 li:1 date:1 fri:1 aug:1 raw:1 types:1 contributed:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-403;jiajia;2015-08-14T07:25:51.294+0000;work:1 great:1 thanks:1 commit:1 author:1 li:1 date:1 fri:1 aug:1 resource:1 leaks:1 contributed:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-407;jiajia;2015-09-14T05:37:40.616+0000;print:1 right:1 usage:1 windows:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-407;jiajia;2015-09-23T01:35:02.118+0000;commit:1 author:1 li:1 date:1 wed:1 sep:1 fix:1 tool:1 usage:1 windows:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-408;jiajia;2016-01-04T08:24:49.632+0000;hi:1 take:1 issue:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-408;Alice Yan;2016-01-05T00:59:27.932+0000;yes:1 try:1 best:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-408;jiajia;2016-01-05T01:06:22.393+0000;run:1 clean:1 package:1 site:1 get:1 report:1 find:1 html:1 target:1 folder:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-408;Alice Yan;2016-01-05T01:13:37.563+0000;saves:1 lot:1 time:1 thanks:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-408;Alice Yan;2016-01-06T09:20:06.110+0000;bugs:3 however:2 body:2 fix:1 modules:1 description:1 remaining:1 fact:1 kind:1 tried:1 clone:1 makes:1 error:1 test:1 pulling:1 request:1 link:1 https:1 apache:1 directory:1 pull:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-408;jiajia;2016-01-07T06:22:37.154+0000;commit:1 author:1 li:1 date:1 jan:1 fix:1 issues:1 benchmark:1 tool:1 modules:1 contributed:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-423;drankye;2015-09-25T23:13:40.970+0000;commit:1 author:1 date:1 sat:1 sep:1 ensure:1 file:1 loaded:1 updated:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-425;drankye;2015-09-29T23:00:45.645+0000;commit:1 author:1 date:1 wed:1 sep:1 default:1 network:1 repeatedly:1 reports:1 socket:1 exception:1 unnecessarily:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-426;drankye;2015-09-30T00:45:37.323+0000;commit:1 author:1 date:1 wed:1 sep:1 wont:1 accept:1 principal:1 name:1 realm:1 part:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-427;jiajia;2015-09-30T05:45:36.945+0000;commit:1 author:1 li:1 date:1 wed:1 sep:1 add:1 appropriate:1 binding:1 module:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-428;jiajia;2015-10-14T05:41:38.058+0000;commit:1 author:1 li:1 date:1 wed:1 oct:1 signed:1 token:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-429;jiajia;2015-10-19T07:02:30.661+0000;commit:1 author:1 li:1 date:1 mon:1 oct:1 token:1 issuer:1 must:1 trusted:1 one:1 issuers:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-431;jiajia;2015-10-20T03:01:18.477+0000;commit:1 author:1 li:1 date:1 oct:1 check:1 processing:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-435;jiajia;2015-10-22T07:44:40.853+0000;principal:4 server:3 audience:2 validation:2 service:2 hi:1 side:1 line:1 compare:1 audiences:1 change:1 test:1 wrong:1 ok:1 commit:1 author:1 li:1 date:1 oct:1 restriction:1 working:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-435;coheigea;2015-10-22T09:29:54.404+0000;hi:1 yes:1 looks:1 fine:1 think:1 however:1 case:1 service:1 principal:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-435;jiajia;2015-10-27T03:03:16.915+0000;token:7 audience:4 principal:3 claim:2 identity:2 value:2 name:2 service:2 including:2 realm:2 access:2 directory:1 docs:1 specify:1 appropriately:1 ticket:1 granting:1 target:1 mechanism:1 uses:1 attribute:1 determine:1 input:1 check:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-435;jiajia;2015-10-27T07:50:05.018+0000;audience:2 fixed:1 case:1 commit:1 author:1 li:1 date:1 oct:1 restriction:1 validation:1 working:1 add:1 check:1 access:1 token:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-436;jiajia;2015-10-22T08:09:28.107+0000;token:2 hi:1 means:1 used:1 signed:1 throw:1 exception:1 receive:1 plain:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-436;coheigea;2015-10-22T09:30:32.921+0000;imo:1 yes:1 token:1 authenticated:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-436;jiajia;2015-10-23T07:47:50.035+0000;thanks:1 report:1 issue:1 commit:1 author:1 li:1 date:1 fri:1 oct:1 accepts:1 unsigned:1 token:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-437;jiajia;2015-10-27T07:47:23.458+0000;commit:1 author:1 li:1 date:1 oct:1 update:1 version:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-437;coheigea;2015-10-27T09:48:59.790+0000;requires:1 build:1 master:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-437;jiajia;2015-10-28T01:11:08.914+0000;oh:1 test:1 revert:1 thanks:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-438;jiajia;2015-10-29T03:39:00.362+0000;commit:1 author:1 li:1 date:1 oct:1 build:1 failure:1 maven:1 error:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-439;jiajia;2015-10-29T03:32:09.919+0000;commit:1 author:1 li:1 date:1 oct:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-442;drankye;2015-11-04T11:53:09.478+0000;thanks:2 file:2 reporting:1 issue:1 looks:1 caused:1 previous:1 work:1 batch:1 transaction:1 support:1 investigate:1 temp:1 failed:1 renamed:1 current:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-442;YaningXu;2015-11-05T01:52:09.261+0000;new:2 file:2 properly:1 already:1 exists:1 rename:1 fails:1 return:1 false:1 hand:1 even:1 though:1 works:1 well:1 succeeds:1 renamed:1 however:1 variable:1 linked:1 created:1 maybe:1 method:1 modified:1 synchronized:1 ok:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-442;YaningXu;2015-11-05T07:29:37.493+0000;commit:3 author:3 date:3 nov:3 file:3 refine:2 method:2 java:2 close:2 merge:1 wed:1 fix:1 problem:1 new:1 database:1 created:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-443;jiajia;2015-11-05T06:25:15.237+0000;commit:1 author:1 li:1 date:1 nov:1 fix:1 issue:1 must:1 least:1 one:1 statement:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-444;jiajia;2015-11-05T06:25:40.060+0000;commit:1 author:1 li:1 date:1 nov:1 fix:1 issues:1 kerb:1 client:1 module:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-447;jiajia;2015-11-05T07:06:14.782+0000;commit:1 author:1 li:1 date:1 nov:1 fix:1 multiple:1 bindings:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-453;jiajia;2015-11-10T05:59:52.828+0000;commit:1 author:1 li:1 date:1 nov:1 update:1 version:1 fix:1 compile:1 issues:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-455;drankye;2015-11-14T13:14:36.955+0000;commit:1 author:1 date:1 sat:1 nov:1 configuring:1 client:1 work:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-456;drankye;2015-11-14T13:45:51.304+0000;commit:1 author:1 date:1 sat:1 nov:1 work:1 use:1 file:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-457;drankye;2015-11-16T13:10:06.794+0000;commit:1 author:1 date:1 mon:1 nov:1 handling:1 default:1 value:1 better:1 way:1 solved:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-462;jiajia;2015-11-20T08:17:18.984+0000;commit:1 author:1 li:1 date:1 fri:1 nov:1 enhance:1 support:1 add:1 random:1 key:1 principal:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-464;drankye;2015-11-21T00:22:27.838+0000;principal:2 commit:1 author:1 date:1 sat:1 nov:1 correcting:1 name:1 type:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-465;drankye;2015-11-21T00:57:49.018+0000;commit:1 author:1 date:1 sat:1 nov:1 avoid:1 setting:1 invalid:1 available:1 encrypting:1 authenticator:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-466;drankye;2015-11-21T03:16:32.227+0000;commit:1 author:1 date:1 sun:1 nov:1 option:1 optional:1 specified:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-467;drankye;2015-11-21T03:23:57.274+0000;commit:1 author:1 date:1 sun:1 nov:1 allow:1 set:1 tcp:1 ports:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-469;drankye;2015-11-23T06:17:36.403+0000;commit:1 author:1 date:1 nov:1 setting:1 fields:1 making:1 authenticator:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-470;drankye;2015-11-23T06:17:49.689+0000;commit:1 author:1 date:1 nov:1 setting:1 fields:1 making:1 authenticator:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-475;elecharny;2015-11-25T13:04:29.978+0000;please:1 explicit:1 problem:1 tittle:1 makes:1 sense:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-475;drankye;2015-11-26T00:20:38.619+0000;issue:2 looks:1 like:1 found:1 better:1 add:1 test:1 expose:1 using:1 verify:1 fix:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-475;jiajia;2015-11-26T01:12:36.409+0000;yes:1 add:1 test:1 expose:1 problem:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-475;jiajia;2015-11-26T02:25:29.846+0000;thank:1 comments:1 think:1 cause:1 issue:1 using:1 tag:1 fix:1 commit:1 author:1 li:1 date:1 nov:1 decoded:1 object:1 wrong:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-488;jiajia;2015-12-07T07:11:30.446+0000;commit:1 author:1 li:1 date:1 mon:1 dec:1 fix:1 compare:1 issue:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-493;drankye;2015-12-10T00:55:03.882+0000;commit:1 author:1 date:1 dec:1 fixed:1 cms:1 signed:1 data:1 encoding:1 issue:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-494;drankye;2015-12-11T00:58:40.431+0000;commit:1 date:1 fri:1 dec:1 support:1 type:1 model:1 types:1 using:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-495;drankye;2015-12-11T23:04:43.467+0000;commit:1 date:1 sat:1 dec:1 fixed:1 decoding:1 issue:1 enabled:1 test:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-496;drankye;2015-12-12T02:23:17.759+0000;commit:1 date:1 sat:1 dec:1 fully:1 decoding:1 test:1 signed:1 data:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-497;drankye;2015-12-12T22:02:51.538+0000;commit:1 date:1 sun:1 dec:1 bring:1 back:1 related:1 tests:1 based:1 new:1 parser:1 commons:1 module:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-498;jiajia;2015-12-14T09:00:27.744+0000;commit:1 author:1 li:1 date:1 mon:1 dec:1 branch:1 build:1 specified:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-502;jiajia;2015-12-15T07:59:49.574+0000;commit:1 author:1 li:1 date:1 dec:1 fixed:1 decoding:1 issue:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-507;jiajia;2015-12-22T02:43:43.982+0000;commit:1 author:1 li:1 date:1 dec:1 add:1 option:1 group:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-508;jiajia;2015-12-22T05:12:39.343+0000;commit:1 author:1 li:1 date:1 dec:1 fail:1 convert:1 options:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-509;jiajia;2015-12-22T06:45:16.233+0000;commit:1 author:1 li:1 date:1 dec:1 add:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-509;drankye;2015-12-25T05:30:34.924+0000;mit:2 good:1 catch:1 looks:1 like:1 implementation:1 kinds:1 sync:1 family:1 report:1 noted:1 comment:1 head:1 update:1 accordingly:1 fix:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-509;jiajia;2015-12-25T05:46:18.559+0000;yet:1 report:1 thanks:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-509;jiajia;2015-12-25T06:50:51.705+0000;mit:1 define:1 https:1 tools:1 html:1 draft:1 agility:1 extensions:1 based:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-509;drankye;2015-12-25T07:36:24.627+0000;cool:1 figure:1 note:1 heard:1 draft:1 never:1 saw:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-510;jiajia;2015-12-23T03:21:11.997+0000;commit:1 author:1 li:1 date:1 wed:1 dec:1 fail:1 convert:1 options:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-512;drankye;2015-12-25T08:07:28.157+0000;thanks:1 reporting:1 paste:1 building:1 error:1 know:1 tests:1 question:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-512;Alice Yan;2015-12-25T08:17:23.398+0000;tests:2 bug:2 glad:1 building:1 error:1 errors:1 occur:1 parts:1 lots:1 skipped:1 let:1 wait:1 see:1 rest:1 resolve:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-512;drankye;2015-12-25T08:29:26.023+0000;see:1 thanks:1 catching:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-512;YaningXu;2015-12-27T13:32:59.236+0000;hi:1 support:1 default:1 user:1 wants:1 use:1 install:1 oracle:1 website:1 tests:1 write:1 code:1 detect:1 machine:1 installed:1 skipped:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-512;Alice Yan;2015-12-28T02:28:44.450+0000;maintain:1 code:1 structure:1 created:1 new:1 class:1 freely:1 used:1 outside:1 thanks:1 idea:1 fixing:1 bug:1 kindly:1 review:1 patch:1 give:1 advice:1 cause:1 thought:1 may:1 skip:1 many:1 tests:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-512;YaningXu;2015-12-28T14:24:50.202+0000;hi:1 codes:1 looks:1 beautiful:1 one:1 minor:1 problem:1 forget:1 add:1 license:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-512;Alice Yan;2015-12-29T02:28:00.838+0000;licence:2 attached:2 meanwhile:1 found:1 another:1 files:1 missing:1 head:1 around:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-512;YaningXu;2015-12-29T03:43:08.392+0000;commit:1 author:1 date:1 dec:1 thanks:1 good:1 work:1 fixing:1 java:1 building:1 error:1 illegal:1 key:1 size:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-513;jiajia;2015-12-25T08:19:48.816+0000;commit:1 author:1 li:1 date:1 fri:1 dec:1 enable:1 tool:1 flag:1 options:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-513;jiajia;2015-12-29T01:53:27.103+0000;commit:1 author:1 li:1 date:1 fri:1 dec:1 enable:1 tool:1 flag:1 options:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-514;jiajia;2015-12-25T08:44:10.346+0000;thanks:1 help:1 wrong:1 define:1 fix:1 according:1 https:1 tools:1 html:1 draft:1 agility:1 page:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-514;jiajia;2015-12-29T01:52:31.151+0000;commit:1 author:1 li:1 date:1 fri:1 dec:1 fix:1 failure:1 decoding:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-517;jiajia;2015-12-30T08:23:20.151+0000;commit:1 author:1 li:1 date:1 wed:1 dec:1 set:1 ticket:1 cache:1 read:1 write:1 permissions:1 owner:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-521;Alice Yan;2016-01-07T03:21:49.136+0000;pull:2 fix:1 important:1 bugs:1 property:1 high:1 medium:1 found:1 kerb:1 module:1 request:1 link:1 https:1 apache:1 directory:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-521;Alice Yan;2016-01-07T06:34:29.635+0000;updated:1 patch:1 changes:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-521;jiajia;2016-01-07T06:49:43.571+0000;commit:1 author:1 li:1 date:1 jan:1 fix:1 kerb:1 contributed:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-522;Alice Yan;2016-01-07T03:12:40.667+0000;bug:2 fixed:1 comments:1 well:1 parsed:1 way:1 add:1 avoid:1 option:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-522;jiajia;2016-01-07T03:41:33.249+0000;commit:1 author:1 li:1 date:1 jan:1 parse:1 error:1 contributed:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-528;jiajia;2016-01-19T08:06:15.149+0000;docs:2 commit:1 author:1 li:1 date:1 jan:1 adding:1 apis:1 folder:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-529;jiajia;2016-05-24T07:06:33.254+0000;commit:1 author:1 li:1 date:1 fri:1 jan:1 request:1 user:1 token:1 credential:1 ticket:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-536;aphaskell;2016-02-23T14:26:20.650+0000;initial:1 change:1 gets:1 accepted:1 also:1 like:1 propose:1 new:1 feature:1 allow:1 able:1 make:1 multiple:1 requests:1 stands:1 seems:1 single:1 shot:1 tool:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-536;drankye;2016-02-24T00:21:29.963+0000;single:2 right:2 patch:1 thanks:1 alexander:1 contribution:1 also:1 like:1 propose:1 new:1 feature:1 allow:1 able:1 make:1 multiple:1 requests:1 stands:1 seems:1 shot:1 tool:1 yes:1 run:1 sounds:1 great:1 long:1 time:1 running:1 service:1 reuse:1 instance:1 repeatedly:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-536;jiajia;2016-02-24T07:01:26.069+0000;think:1 patch:1 lead:1 failure:1 reused:1 test:1 looking:1 forward:1 new:1 feature:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-536;drankye;2016-02-24T07:20:05.680+0000;release:2 thanks:1 finding:1 yeah:1 totally:1 forgot:1 whole:1 story:1 guess:1 underlying:1 transport:1 patch:1 instead:1 add:1 like:1 method:1 let:1 called:1 application:1 ensured:1 use:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-536;drankye;2016-02-24T10:59:38.247+0000;patch:2 reverted:1 commit:1 agree:1 alexander:1 let:1 know:1 point:1 update:1 sounds:1 good:1 thanks:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-536;aphaskell;2016-02-24T20:18:55.467+0000;work:1 much:1 better:1 connections:1 created:1 closed:1 request:1 tried:1 project:1 works:1 advantage:1 way:1 user:1 client:1 forget:1 call:1 close:1 release:1 look:1 good:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-536;jiajia;2016-02-25T06:33:55.022+0000;thanks:1 patch:1 looks:1 great:1 committed:1 commit:1 author:1 li:1 date:1 feb:1 leaks:1 sockets:1 contributed:1 alexander:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-537;drankye;2016-02-26T03:37:09.142+0000;thanks:2 reporting:1 agree:1 fixed:1 maybe:1 release:1 like:1 right:1 going:1 please:1 let:1 know:1 think:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-537;jiajia;2016-02-26T03:45:56.232+0000;agree:1 point:1 fix:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-537;jiajia;2016-05-26T07:25:51.031+0000;hi:1 think:1 latest:1 trunk:1 code:1 fixed:1 issue:1 take:1 time:1 check:1 thanks:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-537;jiajia;2016-05-27T01:53:29.786+0000;yes:1 resolved:1 thanks:1 reporting:1 testing:1 issue:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-538;aphaskell;2016-03-08T21:35:08.578+0000;throw:2 error:2 added:1 branch:1 certain:1 want:1 exception:1 errors:1 least:1 clearly:1 signal:1 occurred:1 default:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-538;jiajia;2016-07-13T06:59:12.877+0000;thanks:1 patch:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-539;aphaskell;2016-03-08T21:24:46.019+0000;prevents:2 occurring:1 also:1 moved:1 transport:1 member:1 variable:1 method:1 never:1 used:1 calls:1 anyway:1 otherwise:1 garbage:1 collector:1 job:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-539;jiajia;2016-07-13T07:04:19.273+0000;thanks:1 patch:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-544;gg;2016-04-01T15:05:13.134+0000;using:1 set:1 advanced:1 leak:1 located:1 fixed:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-544;drankye;2016-04-02T00:16:06.846+0000;thanks:1 finding:1 fix:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-544;drankye;2016-04-02T01:01:09.635+0000;commit:1 author:1 date:1 sat:1 apr:1 fixed:1 buffer:1 leakage:1 contributed:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-548;jiajia;2016-04-12T05:47:44.114+0000;commit:1 author:1 li:1 date:1 apr:1 fix:1 compilation:1 failure:1 remote:1 branch:1 merging:1 trunk:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-549;jiajia;2016-04-12T05:51:37.671+0000;commit:1 author:1 li:1 date:1 apr:1 fix:1 issues:1 remote:1 branch:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-550;jiajia;2016-04-12T06:49:38.876+0000;format:2 commit:1 author:1 li:1 date:1 apr:1 convert:1 dos:1 files:1 unix:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-552;jiajia;2016-05-23T08:53:43.474+0000;commit:1 author:1 li:1 date:1 mon:1 may:1 fail:1 restart:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-561;jiajia;2016-04-26T08:54:28.726+0000;commit:1 author:1 li:1 date:1 apr:1 client:1 failed:1 decode:1 message:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-562;zhouwei;2016-05-03T15:15:40.400+0000;thanks:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-562;drankye;2016-05-03T23:19:01.025+0000;great:1 finding:1 fix:1 thanks:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-562;jiajia;2016-05-04T00:59:13.332+0000;great:1 work:1 commit:1 thanks:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-562;jiajia;2016-05-04T01:24:03.191+0000;commit:1 author:1 li:1 date:1 wed:1 may:1 virtual:1 memory:1 used:1 increases:1 requestes:1 processed:1 contributed:1 wei:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-575;jiajia;2016-05-26T02:06:30.829+0000;great:1 finding:1 waiting:1 patch:1 fix:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-575;gg;2016-05-26T22:14:51.986+0000;patch:1 tested:1 platforms:1 return:1 work:1 well:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-575;jiajia;2016-05-27T01:50:19.884+0000;patch:1 looks:1 good:1 get:1 name:1 platform:1 committed:1 thanks:1 contribution:1 commit:1 author:1 li:1 date:1 fri:1 may:1 failure:1 due:1 input:1 nothing:1 test:1 contributed:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-583;drankye;2016-06-12T11:21:55.085+0000;uploaded:1 initial:1 patch:1 adding:1 check:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-583;stevel@apache.org;2016-06-12T12:08:10.520+0000;needs:1 check:1 negative:1 number:1 maybe:1 zero:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-583;elecharny;2016-06-13T13:36:46.881+0000;rev:2 file:2 size:2 fixed:1 code:1 http:1 apache:1 view:1 data:1 read:1 checked:1 might:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-583;drankye;2016-06-13T21:09:37.213+0000;thanks:1 fix:1 agree:1 well:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-591;jiajia;2016-07-04T06:42:31.975+0000;commit:1 author:1 li:1 date:1 mon:1 add:1 subject:1 private:1 credentials:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-591;coheigea;2016-07-04T11:35:57.196+0000;thanks:1 working:1 fine:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-594;jiajia;2016-07-13T08:11:46.784+0000;commit:1 author:1 li:1 date:1 wed:1 fix:1 null:1 pointer:1 exception:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-599;jiajia;2016-07-26T02:59:29.477+0000;commit:1 author:1 li:1 date:1 client:1 run:1 remote:1 changing:1 realm:1 contributed:1 qing:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-600;QingChen;2016-07-21T07:20:50.610+0000;close:2 cut:1 code:1 scanner:1 line:1 java:1 system:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-600;jiajia;2016-07-21T08:24:34.613+0000;qing:2 thanks:1 finding:1 solving:1 issue:1 commit:1 author:1 li:1 date:1 throw:1 exception:1 run:1 contributed:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-600;QingChen;2016-07-22T01:07:38.371+0000;thanks:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-601;jiajia;2016-07-28T07:54:57.293+0000;commit:1 author:1 li:1 date:1 add:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-602;ussmith;2016-07-28T18:23:31.038+0000;submitted:1 pull:1 request:1 new:1 method:1 allows:1 specify:1 principal:1 realm:1 remote:1 branch:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-602;jiajia;2016-07-29T01:30:09.539+0000;thanks:1 contribution:1 new:1 method:1 looks:1 good:1 think:1 better:1 provide:1 patch:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-602;jiajia;2016-08-02T07:39:52.560+0000;shawn:2 thanks:1 contribution:1 commit:1 author:1 li:1 date:1 aug:1 remote:1 create:1 user:1 hard:1 codes:1 principal:1 name:1 contributed:1 smith:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-613;jiajia;2017-02-24T08:21:43.670+0000;commit:1 author:1 li:1 date:1 fri:1 feb:1 tests:1 fails:1 systems:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-613;jiajia;2017-02-24T08:22:50.725+0000;marc:1 de:1 fixed:1 issue:1 check:1 test:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-613;HadoopMarc;2017-02-25T12:34:37.960+0000;great:1 cared:1 issue:1 easy:1 way:1 test:1 original:1 environment:1 look:1 course:1 week:1 cheers:1 marc:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-613;HadoopMarc;2017-02-28T08:56:33.869+0000;info:48 success:40 kerb:31 apache:16 server:14 java:11 project:7 client:6 identity:5 common:4 test:4 tool:4 time:4 trunk:3 min:3 elapsed:3 sec:3 git:2 checkout:2 branch:2 clean:2 install:2 release:2 running:2 tests:2 run:2 failures:2 errors:2 skipped:2 setup:2 hi:1 confirm:1 patch:1 effective:1 system:1 see:1 relevant:1 terminal:1 output:1 cheers:1 marc:1 file:1 switched:1 date:1 origin:1 reactor:1 summary:1 core:1 simple:1 providers:1 token:1 provider:1 integration:1 based:1 distribution:1 benchmark:1 build:1 total:1 finished:1 final:1 memory:1 head:1 maven:1 prepare:1 e:1 failure:1 error:1 unable:1 parse:1 var:1 sss:1 include:1 load:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-613;jiajia;2017-03-01T05:39:35.606+0000;thanks:1 testing:1 close:1 issue:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-614;bolke;2016-11-26T17:53:21.463+0000;trace:2 kerb:1 mit:1 failed:1 heimdal:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-614;bolke;2016-11-27T09:12:26.776+0000;mit:2 similar:1 thing:1 happened:1 couple:1 years:1 ago:1 https:1 ticket:1 display:1 html:1 id:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-614;bolke;2016-11-27T12:36:33.302+0000;trying:1 well:1 snapshot:1 also:1 mit:1 fails:1 reply:1 match:1 expectations:1 getting:1 initial:1 credentials:1 heimdal:1 works:1 fine:1 errors:1 logged:1 side:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-614;drankye;2016-11-28T09:53:05.204+0000;unexpectedly:1 sad:1 thing:1 hard:1 ignore:1 strictly:1 follows:1 definition:1 common:1 underlying:1 framework:1 fix:1 maybe:1 work:1 around:1 disabling:1 check:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-614;coheigea;2017-05-31T11:26:54.335+0000;java:4 apache:3 decode:3 type:2 hi:1 run:1 problem:1 well:1 using:1 curl:1 negotiate:1 see:1 following:1 error:1 caused:1 io:1 unexpected:1 item:1 context:1 tag:1 expecting:1 kerb:1 know:1 unknown:1 handle:1 way:1 regards:1 comment:1 disabling:1 check:1 work:1 called:1 even:1 false:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-614;drankye;2017-06-05T01:38:26.332+0000;hi:1 looks:1 like:1 two:1 issues:1 exposed:1 one:1 decoding:1 issue:1 unknown:1 probably:1 run:1 fast:1 things:1 given:1 disabled:1 hope:1 get:1 sooner:1 sorry:1 late:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-614;jiajia;2017-06-19T05:18:12.824+0000;thanks:2 issue:2 reporting:1 comments:1 close:1 checked:1 fix:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-614;jiajia;2017-06-19T05:19:13.185+0000;commit:1 author:1 li:1 date:1 wed:1 fix:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-620;elecharny;2017-02-23T18:50:42.535+0000;size:2 read:2 actually:1 know:1 able:1 many:1 bytes:1 needed:1 like:1 drop:1 try:1 catch:1 thrown:1 back:1 caller:1 allocated:1 right:1 buffer:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-620;mac.miklas;2017-02-23T22:08:17.410+0000;loop:4 read:3 iteration:2 message:2 second:2 data:2 try:2 think:1 might:1 throw:1 first:1 whole:1 wait:1 never:1 arrives:1 normally:1 get:1 observed:1 least:1 case:1 indicate:1 end:1 stream:1 instance:1 replacing:1 simple:1 call:1 also:1 inside:1 one:1 keeps:1 track:1 next:1 byte:1 test:1 tomorrow:1 let:1 know:1 works:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-620;elecharny;2017-02-23T23:35:51.761+0000;think:1 right:1 code:1 probably:1 better:1 way:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-620;mac.miklas;2017-02-24T11:12:36.245+0000;tested:1 last:1 proposal:1 works:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-620;elecharny;2017-02-24T11:25:10.903+0000;rev:2 fixed:1 http:1 apache:1 view:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-621;asasvari;2017-04-11T16:48:44.841+0000;binary:1 patch:1 test:1 case:1 illustrate:1 problem:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-621;asasvari;2017-04-12T13:53:35.593+0000;uses:1 look:1 public:1 void:1 load:1 file:1 throws:1 kis:1 available:1 call:1 return:1 number:1 bytes:1 read:1 estimate:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-621;asasvari;2017-04-12T13:56:04.953+0000;please:1 take:1 look:1 patch:1 share:1 insights:1 many:1 thanks:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-621;asasvari;2017-04-13T10:36:12.843+0000;bit:4 https:2 quote:2 key:2 version:2 implementation:2 bytes:2 information:1 used:1 web:1 mit:1 doc:1 formats:1 html:1 overrides:1 determine:1 present:1 must:1 check:1 least:1 remain:1 record:1 fields:1 read:1 value:1 integer:1 contained:1 non:1 zero:1 looking:1 blob:1 c:1 shows:1 seek:1 reading:1 extension:1 also:1 apache:1 kerb:1 attach:1 new:1 patch:1 soon:1 take:1 care:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-621;asasvari;2017-04-13T18:35:13.915+0000;docs:4 java:4 https:3 bytes:2 oracle:2 io:2 html:2 returns:2 quote:2 apache:2 directory:2 server:2 patch:1 includes:1 logic:1 reposition:1 skipping:1 next:1 entry:1 however:1 double:1 checked:1 available:1 method:1 estimate:1 says:1 number:1 remaining:1 read:1 skipped:1 input:1 stream:1 might:1 feasible:1 note:1 implementation:1 blob:1 trunk:1 main:1 shared:1 looks:1 defensive:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-621;drankye;2017-04-17T05:27:42.369+0000;thanks:1 attila:1 reporting:1 providing:1 patch:1 review:1 soon:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-621;drankye;2017-04-19T00:55:35.082+0000;good:3 patch:1 looks:1 pretty:1 shape:1 tests:1 take:1 another:1 look:1 help:1 commit:1 fix:1 release:1 imo:1 thanks:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-621;jiajia;2017-04-19T01:22:19.388+0000;look:1 soon:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-621;jiajia;2017-04-19T06:42:32.962+0000;thanks:2 attila:2 reporting:1 issue:1 providing:1 patch:1 looks:1 great:1 review:1 committed:1 commit:1 author:1 li:1 date:1 wed:1 apr:1 version:1 multiple:1 entries:1 read:1 properly:1 contributed:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-621;asasvari;2017-04-20T10:00:38.953+0000;many:1 thanks:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-624;drankye;2017-04-20T05:30:38.902+0000;hi:1 thanks:1 finding:1 know:1 caused:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-624;jiajia;2017-04-20T06:11:27.967+0000;think:1 issue:1 caused:1 wrong:1 test:1 case:1 solve:1 later:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-624;jiajia;2017-04-24T07:25:36.074+0000;fix:1 issue:1 changing:1 test:1 case:1 commit:1 author:1 li:1 date:1 mon:1 apr:1 failed:1 exception:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-625;jiajia;2017-05-03T05:45:12.783+0000;ticket:2 wrong:1 time:1 ref:1 c:1 commit:1 author:1 li:1 date:1 wed:1 may:1 mit:1 client:1 failed:1 obtain:1 granting:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-625;coheigea;2017-05-03T08:18:09.519+0000;push:1 fix:1 see:1 git:1 pull:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-625;jiajia;2017-05-03T08:23:47.155+0000;hi:1 pushed:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-625;coheigea;2017-05-03T08:33:10.263+0000;thanks:1 see:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-626;zenglinx;2017-05-03T05:20:18.910+0000;initial:1 patch:1 attached:1 removed:1 output:1 detailed:1 error:1 message:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-626;coheigea;2017-05-03T08:22:36.558+0000;err:3 assert:2 fail:2 thanks:1 patch:1 tests:1 instead:1 system:1 empty:1 put:1 error:1 message:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-626;zenglinx;2017-05-03T09:31:21.826+0000;thanks:1 good:1 suggestion:1 patch:1 fix:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-626;coheigea;2017-05-03T11:55:17.688+0000;tool:3 java:2 thanks:1 one:1 fix:1 like:1 see:1 client:1 main:1 apache:1 preserve:1 exception:1 stack:1 trace:1 error:1 log:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-626;zenglinx;2017-05-04T00:50:57.119+0000;hi:1 sorry:1 patch:1 fix:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-628;zenglinx;2017-05-04T05:51:45.481+0000;print:1 correct:1 error:1 message:1 usage:1 argument:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-628;jiajia;2017-05-04T08:08:06.788+0000;thanks:2 reporting:1 issue:1 patch:1 looks:1 good:1 commit:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-628;jiajia;2017-05-04T12:00:10.504+0000;commit:1 author:1 li:1 date:1 may:1 argument:1 input:1 parse:1 error:1 contributed:1 lin:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-629;coheigea;2017-05-08T10:16:34.668+0000;patch:3 test:2 apache:2 trunk:2 cases:1 another:1 project:1 reproduce:1 following:1 co:1 http:1 cd:1 download:1 attached:1 clean:1 install:1 run:1 integration:1 module:1 see:1 failures:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-629;jiajia;2017-06-15T08:07:11.593+0000;hi:1 update:1 patch:1 apply:1 trunk:1 thanks:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-629;coheigea;2017-06-15T09:06:51.250+0000;hi:1 yes:1 see:1 attached:1 working:1 patch:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-631;HadoopMarc;2017-06-06T18:25:48.798+0000;tar:5 mit:4 use:2 install:2 signed:2 make:2 people:1 wanting:1 directory:1 recent:1 linux:1 right:1 following:1 applies:1 tested:1 problem:1 least:1 find:1 compile:1 source:1 e:1 learning:1 extra:1 needed:1 compiler:1 flags:1 probably:1 need:1 additional:1 packages:1 like:1 build:1 essential:1 read:1 error:1 messages:1 http:1 web:1 cd:1 configure:1 z:1 fresh:1 terminal:1 check:1 version:1 python:1 wrapper:1 reinstall:1 links:1 new:1 default:1 shared:1 libraries:1 alleviate:1 necessity:1 resolve:1 current:1 issue:1 n:1 even:1 key:1 valid:1 anymore:1 risc:1 pub:1 tom:1 cheers:1 marc:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-631;coheigea;2017-06-07T10:07:44.874+0000;hi:1 marc:1 possible:1 submit:1 pr:1 based:1 fork:1 master:1 failing:1 test:1 reproduce:1 issue:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-631;HadoopMarc;2017-06-07T10:47:56.223+0000;test:2 hi:1 requires:1 manual:1 involvement:1 guess:1 pr:1 likely:1 accepted:1 rather:1 like:1 fetch:1 cherry:1 pick:1 relevant:1 commit:1 development:1 clone:1 make:1 automated:1 cheers:1 marc:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-631;HadoopMarc;2017-06-17T13:18:00.352+0000;test:59 kerb:19 service:15 cts:12 file:10 target:8 cc:8 request:7 result:6 marc:5 client:5 key:5 projects:4 directory:4 retrieving:4 user:4 found:4 stream:4 starting:3 fast:3 tcp:3 response:3 session:3 renew:3 issue:2 server:2 table:2 successful:2 matching:2 credential:2 filename:2 realm:2 success:2 cbc:2 sending:2 bytes:2 connection:2 received:2 decoding:2 reply:2 storing:2 ticket:2 authenticator:2 principal:2 hi:1 tested:1 patch:1 system:1 see:1 great:1 work:1 closing:1 cheers:1 java:1 apache:1 getting:1 credentials:1 using:1 retrying:1 referral:1 requesting:1 tickets:1 referrals:1 generated:1 requested:1 encoding:1 body:1 resolving:1 initiating:1 answer:1 terminating:1 master:1 decode:1 trying:1 creds:1 desired:1 also:1 based:1 removing:1 creating:1 negotiating:1 first:1 cache:1 default:1 valid:1 expires:1 modules:1 available:1 distributor:1 id:1 description:1 release:1 v:1 version:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-631;jiajia;2017-06-19T04:55:32.622+0000;thanks:1 marc:1 reporting:1 issue:1 checking:1 fix:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-631;jiajia;2017-06-19T04:55:58.841+0000;commit:1 author:1 li:1 date:1 wed:1 fix:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-633;jiajia;2017-07-14T01:16:49.228+0000;commit:1 author:1 li:1 date:1 wed:1 invalid:1 signature:1 file:1 digest:1 manifest:1 main:1 attributes:1 exception:1 running:1 tool:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-634;jiajia;2017-07-14T08:19:52.261+0000;key:2 source:1 code:1 client:1 try:1 session:1 sub:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-634;jiajia;2017-07-14T08:31:28.244+0000;commit:1 author:1 li:1 date:1 fri:1 failed:1 get:1 service:1 granting:1 ticket:1 mit:1 using:1 client:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-637;jiajia;2017-07-26T12:30:43.292+0000;looks:1 good:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-638;coheigea;2017-07-27T10:08:06.140+0000;proposed:1 patch:1 work:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-638;jiajia;2017-08-02T14:26:41.319+0000;key:2 sure:1 using:1 session:1 ticket:1 server:1 right:1 take:1 time:1 dig:1 tomorrow:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-638;drankye;2017-08-03T01:47:26.768+0000;key:8 server:3 service:2 way:2 used:2 session:2 shared:1 besides:1 means:1 exports:1 stores:1 file:1 know:1 sharing:1 note:1 decryption:1 ticket:1 passed:1 client:1 typically:1 channel:1 message:1 encryption:1 authentication:1 stuff:1 one:1 hack:1 use:1 password:1 side:1 might:1 calling:1 function:1 generate:1 exact:1 initially:1 stored:1 back:1 end:1 sure:1 good:1 practice:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-638;jiajia;2017-08-03T02:57:40.488+0000;key:5 service:4 credentials:2 subject:2 patch:2 using:1 password:1 stored:1 private:1 get:1 uploaded:1 based:1 test:1 pass:1 one:1 issue:1 equal:1 store:1 remove:1 checking:1 getting:1 right:1 type:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-638;jiajia;2017-08-03T03:06:25.704+0000;temp:1 null:1 set:1 adding:1 principal:1 default:1 equal:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-638;coheigea;2017-08-03T11:08:34.644+0000;case:2 thanks:1 looks:1 good:1 commit:1 patches:1 minor:1 changes:1 applied:1 still:1 use:1 subject:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-638;jiajia;2017-08-03T12:14:48.422+0000;patch:3 based:1 help:1 commit:1 thanks:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-638;coheigea;2017-08-03T12:46:12.985+0000;ok:1 applied:1 patch:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-638;jiajia;2017-08-03T13:09:22.754+0000;committed:1 commit:1 author:1 li:1 date:1 aug:1 get:1 subject:1 server:1 key:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-642;zenglinx;2017-08-04T02:32:14.273+0000;remove:2 bytes:2 initial:1 patch:1 functions:1 usage:1 replaced:1 removed:1 main:1 part:1 class:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-642;jiajia;2017-08-04T02:59:34.976+0000;think:1 leave:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-642;zenglinx;2017-08-04T06:06:28.551+0000;hi:1 thanks:1 suggestion:1 updated:1 patch:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-642;jiajia;2017-08-04T06:13:28.766+0000;lin:2 thanks:1 contribution:1 committed:1 commit:1 author:1 li:1 date:1 fri:1 aug:1 remove:1 bytes:1 functions:1 contributed:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-644;jiajia;2017-08-07T00:28:26.215+0000;think:1 change:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-644;coheigea;2017-08-08T11:12:15.135+0000;yes:1 sounds:1 good:1 also:1 need:1 change:1 methods:1 well:1 passed:1 class:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-644;coheigea;2017-08-09T15:28:14.190+0000;please:1 see:1 proposed:1 patch:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-644;jiajia;2017-08-10T01:33:34.932+0000;patch:1 looks:1 good:1 tests:1 passed:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-645;zenglinx;2017-08-07T07:06:58.541+0000;initial:1 patch:1 attached:1 start:1 server:1 failed:1 port:1 already:1 use:1 remove:1 unused:1 dependency:1 benchmark:1 module:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-645;jiajia;2017-08-07T07:55:35.595+0000;thanks:1 reporting:1 providing:1 patch:1 sure:1 issue:1 help:1 test:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-645;zenglinx;2017-08-07T10:05:45.278+0000;hi:1 tested:1 case:1 issue:1 happen:1 using:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-645;jiajia;2017-08-08T01:27:23.959+0000;lin:2 patch:1 great:1 thank:1 contribution:1 commit:1 author:1 li:1 date:1 aug:1 start:1 failed:1 already:1 use:1 contributed:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-647;coheigea;2017-08-10T12:06:58.164+0000;always:1 switch:1 require:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-647;jiajia;2017-08-29T01:51:28.736+0000;hi:1 think:1 good:1 choice:1 switch:1 target:1 java:1 projects:1 using:1 modules:1 break:1 compatibility:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-647;coheigea;2017-08-29T10:23:13.989+0000;see:1 attached:1 proposed:1 patch:1 issue:1 uses:1 reflection:1 get:1 principal:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-647;jiajia;2017-08-30T01:24:00.119+0000;reflection:1 method:1 looks:1 good:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-652;jiajia;2017-09-05T06:18:54.146+0000;someone:1 help:1 review:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-652;coheigea;2017-09-05T09:04:34.031+0000;change:2 get:2 name:2 return:2 looks:1 fine:1 trivial:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-652;jiajia;2017-09-06T01:16:44.054+0000;thanks:1 review:1 update:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-652;jiajia;2017-09-06T06:13:54.055+0000;commit:1 author:1 li:1 date:1 wed:1 sep:1 support:1 dynamic:1 load:1 token:1 provider:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-656;zenglinx;2017-09-11T08:07:05.504+0000;ticket:4 service:3 tool:2 match:2 renew:2 found:1 renews:1 default:1 getting:1 check:1 principal:1 forward:1 mentioned:1 error:1 encountered:1 think:1 r:1 argument:1 passed:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-656;zenglinx;2017-09-11T08:12:03.558+0000;initial:1 patch:1 fixes:1 bug:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-656;jiajia;2017-09-11T08:16:31.163+0000;great:1 thanks:1 patch:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-656;jiajia;2017-09-12T03:32:12.746+0000;frank:2 thanks:1 fix:1 committed:1 commit:1 author:1 li:1 date:1 sep:1 compatibility:1 problem:1 getting:1 service:1 ticket:1 contributed:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-658;jiajia;2017-09-22T08:33:33.510+0000;found:1 gss:1 server:1 wait:1 time:1 otherwise:1 receive:1 access:1 token:1 know:1 pass:1 look:1 issue:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-658;coheigea;2017-09-22T10:02:42.769+0000;version:2 using:2 idea:1 working:1 gss:1 server:1 need:1 wait:1 receive:1 token:1 try:1 recent:1 old:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-658;zenglinx;2017-09-22T11:02:41.768+0000;newest:1 version:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-658;coheigea;2017-09-22T11:45:52.776+0000;ok:1 thanks:1 guess:1 disable:1 test:1 someone:1 idea:1 working:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-658;coheigea;2017-09-26T14:42:16.836+0000;issue:2 think:1 patch:1 pushed:1 fixed:1 problem:1 confirm:1 reproduce:1 windows:1 update:1 fixes:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-658;zenglinx;2017-09-27T02:16:15.676+0000;great:1 tested:1 mac:1 unit:1 test:1 passed:1 thanks:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-660;zenglinx;2017-10-16T09:26:39.084+0000;commit:1 author:1 frank:1 date:1 mon:1 oct:1 compatibility:1 problem:1 getting:1 default:1 credential:1 cache:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-662;jiajia;2017-10-18T08:20:25.105+0000;commit:1 author:1 li:1 date:1 wed:1 oct:1 cross:1 realm:1 request:1 skip:1 checking:1 client:1 entry:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-665;coheigea;2017-10-31T09:41:04.185+0000;using:1 apache:1 clear:1 description:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-665;jiajia;2017-11-01T02:36:09.478+0000;database:2 think:1 using:1 mit:1 reason:1 error:1 server:1 found:1 add:1 service:1 principal:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-665;drankye;2017-11-01T08:47:49.344+0000;looks:1 like:1 service:1 principal:1 sent:1 client:1 side:1 failed:1 match:1 please:1 double:1 check:1 make:1 sure:1 right:1 one:1 database:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-665;vratmuri;2017-11-06T13:28:46.745+0000;yes:1 using:1 mit:1 problem:1 principal:1 host:1 thank:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-665;vratmuri;2017-11-06T13:31:38.772+0000;problem:1 principal:1 host:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-667;coheigea;2017-11-06T13:02:16.039+0000;jar:17 snapshot:11 kerb:7 following:3 extra:3 jars:3 smart:2 proposed:1 patch:1 issue:1 trunk:1 includes:1 transitive:1 dependencies:1 tool:1 non:1 commons:1 io:1 nimbus:1 annotations:1 client:1 common:1 core:1 identity:1 server:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-667;coheigea;2017-11-06T13:21:59.217+0000;wondering:1 need:1 kerb:1 client:1 token:1 provider:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-667;drankye;2017-11-09T12:21:09.528+0000;patch:1 looks:1 good:1 also:1 agree:1 remove:1 mentioned:1 two:1 double:1 check:1 change:1 integration:1 tests:1 release:1 thanks:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-670;jiajia;2017-11-15T01:18:47.781+0000;commit:1 author:1 li:1 date:1 nov:1 add:1 checksum:1 verification:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-682;jiajia;2017-12-27T07:51:47.974+0000;commit:1 author:1 li:1 date:1 wed:1 dec:1 fix:1 checksum:1 verify:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-692;coheigea;2018-02-06T14:58:20.221+0000;create:1 patch:1 project:1 suggested:1 changes:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-692;ftarlao;2018-02-06T15:07:56.672+0000;bug:3 attach:1 later:1 proposed:1 simple:1 manages:1 case:1 try:1 extend:1 suppose:1 deeper:1 mine:1 understanding:1 project:1 conventions:1 needed:1 reliable:1 fix:1 update:1 thread:1 asap:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-692;ftarlao;2018-02-06T15:57:54.720+0000;request:3 looks:2 like:2 problem:2 example:1 bug:1 may:1 fail:1 provide:1 performed:1 exactly:1 null:1 arises:1 malformed:1 ok:1 forgot:1 populate:1 response:1 later:1 think:1 service:1 cause:1 takes:1 information:1 sure:1 suppose:1 provided:1 ticket:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-692;ftarlao;2018-02-06T16:56:58.916+0000;attached:1 patches:1 updated:1 main:1 post:1 please:1 read:1 ps:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-692;ftarlao;2018-02-07T10:30:25.066+0000;also:1 sent:1 patches:1 pull:1 request:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-692;coheigea;2018-02-07T14:36:04.984+0000;case:2 thanks:1 possible:1 also:1 supply:1 test:1 reproduce:1 error:1 second:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-692;ftarlao;2018-02-07T15:51:38.246+0000;test:2 java:2 also:2 provide:1 final:1 project:1 understood:1 integration:1 tests:1 work:1 think:1 spawn:1 local:1 instance:1 domain:1 users:1 provided:1 normal:1 assumes:1 already:1 running:1 somewhere:1 class:1 contains:1 constants:1 initialized:1 properly:1 loads:1 configuration:1 available:1 change:1 part:1 new:1 file:1 depends:1 best:1 practises:1 hope:1 useful:1 regards:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-692;coheigea;2018-02-08T12:45:14.789+0000;thanks:1 adapted:1 merged:1 master:1 https:1 apache:1 directory:1 commit:1 pr:1 patches:1 look:1 good:1 left:1 minor:1 comments:1 address:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-692;ftarlao;2018-02-08T16:52:23.114+0000;like:2 share:1 small:1 doubt:1 thought:1 bug:1 patch:1 good:1 accepted:1 valid:1 solution:1 perhaps:1 dive:1 looks:1 quite:1 strange:1 property:1 set:1 lower:1 level:1 layers:1 feeling:1 let:1 think:1 safe:1 sure:1 regards:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-692;jiajia;2018-02-09T05:54:28.993+0000;look:1 patch:1 think:1 following:1 line:1 move:1 condition:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-692;ftarlao;2018-02-09T06:55:22.694+0000;code:3 block:2 right:2 null:2 bug:2 second:1 checking:1 step:1 first:1 accessing:1 field:1 managed:1 case:1 current:1 state:1 subsequent:1 commits:1 update:1 main:1 report:1 final:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-694;coheigea;2018-02-13T11:31:00.741+0000;principal:1 deleted:1 correctly:1 looks:1 like:1 problem:1 server:1 need:1 find:1 way:1 communicating:1 changes:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-694;coheigea;2018-03-28T14:25:02.855+0000;thoughts:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-694;jiajia;2018-03-29T01:26:34.845+0000;quote:2 principal:1 deleted:1 correctly:1 looks:1 like:1 problem:1 server:1 need:1 find:1 way:1 communicating:1 changes:1 agree:1 think:1 trying:1 fix:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-694;jiajia;2018-04-17T01:50:57.520+0000;think:2 using:1 server:1 suitable:1 easy:1 notify:1 changes:1 suggest:1 removing:1 cache:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-694;coheigea;2018-04-17T11:20:13.321+0000;yes:1 agree:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-694;jiajia;2018-04-19T03:16:11.948+0000;commit:1 author:1 li:1 date:1 apr:1 fix:1 removing:1 server:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-694;coheigea;2018-04-19T12:18:38.140+0000;looks:1 good:1 please:1 x:1 fixes:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-694;jiajia;2018-04-20T02:23:41.857+0000;merged:1 fix:1 x:1 fixes:1 branch:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-707;jiajia;2018-07-20T06:23:53.679+0000;tested:1 bug:1 issue:1 fixed:1 trunk:1 thanks:1
+DIRKRB;Apache Directory Committee;security;DIRKRB-707;jiajia;2018-08-03T07:58:01.626+0000;commit:1 author:1 li:1 date:1 fri:1 aug:1 start:1 server:1 specific:1 failed:1 bug:1 contributed:1
