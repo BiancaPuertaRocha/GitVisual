@@ -1,3 +1,5 @@
 bokeh
 pandas
 flask
+wordcloud
+ipython

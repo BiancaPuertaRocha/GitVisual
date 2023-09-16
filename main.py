@@ -4,6 +4,9 @@ from bokeh.resources import CDN
 
 from flask import Flask, render_template
 
+from vis_utils import Visualization
+from csv_utils import DataUtils
+
 app=Flask(__name__)
 
 @app.route('/plot')
@@ -29,6 +32,13 @@ def plot():
     # cdn_css = CDN.css_files[0]
     cdn_css = "http://cdn.pydata.org/bokeh/release/bokeh-0.9.0.min.css"
     return render_template('index.html', script=script, div=div, cdn_css=cdn_css, cdn_js=cdn_js)
+
+
+@app.route('/wordcloud')
+def plot_wordcloud():
+    df = DataUtils.load_csv_df('files/commits/all/cassandra-bug-fix-comment-log-dataset.csv')
+    image = Visualization.wordcloud(df, 'Author')
+    return render_template('image.html', wordcloud_image=image)
 
 
 
